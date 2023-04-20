@@ -81,7 +81,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZy, PoomSmart",
+                "Label": "HackZy & PoomSmart",
                 "Links": [
                     {
                         "Label": "GitHub",
@@ -110,7 +110,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZy, PoomSmart",
+                "Label": "HackZy & PoomSmart",
                 "Links": [
                     {
                         "Label": "HackZy",
@@ -119,6 +119,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/icon.png",
+            "HeaderImage": "hackzy01/misio/main/assets/com.hackzy.fluentflat/Header.jpeg"
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Screenshot.png"
             ],
