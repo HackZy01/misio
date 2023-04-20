@@ -149,15 +149,22 @@
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/icon.png",
             "Screenshot": [
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot1.jpg",
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot2.jpg",
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot3.jpg"
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot2.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot3.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot4.png"
+
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso.misaka",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/archived/com.hackzy.meloso/1.0.misaka",
                     "Description": "It works"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso.misaka",
+                    "Description": "20.3MB -> 1MB, no font too big errors"
                 }
             ],
             "PackageID": "com.hackzy.meloso"
