@@ -1,0 +1,259 @@
+{
+    "RepositoryName": "Misa",
+    "RepositoryDescription": "✨It just works✨",
+    "RepositoryAuthor": "HackZy",
+    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repo.png",
+    "RepositoryWebsite": "https://github.com/hackzy01/misio",
+    "Default":{
+        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
+        "ViewCount": true
+    },    
+    "RepositoryContents": [
+        {
+            "Name": "Checkra1n Lock",
+            "Description": "a breath of fresh air",
+            "Category": "Lock",
+            "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol/n/Based on a jailbreak tweak called LatchKey",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.checklock/Screenshot2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.checklock.misaka",
+                    "Description": "It works"
+                }
+            ],
+            "PackageID": "com.hackzy.checklock"
+        },
+        {
+            "Name": "Subway Surfers Hack",
+            "Description": "That's what I call a pro-gamer move",
+            "Category": "Games",
+            "Caption": "Unlocks all the characters, boards and adds the optimal amount of coins, keys and boards... and a lot more",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon.png",
+            "Screenshot": [
+
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot2.png",
+                "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.subhack.misaka",
+                    "Description": ""
+                }
+            ],
+            "PackageID": "com.hackzy.subhack"
+        },
+        {
+            "Name": "JoyPixels",
+            "Description": "An amazing Emoji Font 😎",
+            "Category": "Fonts",
+            "Caption": "JoyPixels Emoji Font for iOS devices, we love u PoomSmart",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy, PoomSmart",
+                "Links": [
+                    {
+                        "Label": "GitHub",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/jicon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Screenshot.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.joypixels.misaka",
+                    "Description": "JoyPixels 7.0, Unicode 14.0"
+                }
+            ],
+            "PackageID": "com.hackzy.joypixels"
+        },
+        {
+            "Name": "Fluent Emojis (Flat)",
+            "Description": "The default Windows 11 Emojis",
+            "Category": "Fonts",
+            "Caption": "Flat Fluent Emojis for iOS devices",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy, PoomSmart",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Screenshot.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.fluentflat.misaka",
+                    "Description": "It works"
+                }
+            ],
+            "PackageID": "com.hackzy.fluentflat"
+        },
+        {
+            "Name": "Meloso (100%) (UI)",
+            "Description": "An amazing system font",
+            "Category": "Fonts",
+            "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy, Alexman",
+                "Links": [
+                    {
+                        "Label": "Alexman",
+                        "Link": "https://twitter.com/Alexman1979/"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot1.jpg",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot2.jpg",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot3.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso.misaka",
+                    "Description": "It works"
+                }
+            ],
+            "PackageID": "com.hackzy.meloso"
+        },
+        {
+            "Name": "Dino Legal Notice",
+            "Description": "The Easter Egg you wished your iPhone had",
+            "Category": "Games",
+            "Caption": "Replaces the Legal Notice entry in the settings with Chrome Dino Minigame",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.dino/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.dino/Screenshot.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "0.9",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/archived/com.hackzy.dino/0.9.misaka",
+                    "Description": "I need to fix that bottom text"
+                },
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.dino.misaka",
+                    "Description": "Thanks Sean"
+                }
+            ],
+            "PackageID": "com.hackzy.dino"
+        },
+        {
+            "Name": "OneCC",
+            "Description": "OneUI Control Center Icons",
+            "Category": "UI",
+            "Caption": "Wanted a Samsung and a good experience?\nGoes really well with the Tomorrow Clock Font",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.onecc.misaka",
+                    "Description": "Special credits to YangJii who's method is used in this tweak"
+                }
+            ],
+            "PackageID": "com.hackzy.onecc"
+        },
+        {
+            "Name": "sCharge",
+            "Description": "Samsung Charging Sound",
+            "Category": "sound",
+            "Caption": "Exactly what you think it does",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://GitHub.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Preview.mp4"            
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.scharge.misaka",
+                    "Description": "Initial release"
+                }
+            ],
+            "PackageID": "com.hackzy.scharge"
+        }
+    ]
+}
