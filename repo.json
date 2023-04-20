@@ -132,14 +132,14 @@
             "PackageID": "com.hackzy.fluentflat"
         },
         {
-            "Name": "Meloso (100%) (UI)",
+            "Name": "Meloso (100%)",
             "Description": "An amazing system font",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZy, Alexman",
+                "Label": "HackZy & Alexman",
                 "Links": [
                     {
                         "Label": "Alexman",
@@ -168,6 +168,39 @@
                 }
             ],
             "PackageID": "com.hackzy.meloso"
+        },
+        {
+            "Name": "Meloso (85%)",
+            "Description": "An amazing system font",
+            "Category": "Fonts",
+            "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZ & Alexman",
+                "Links": [
+                    {
+                        "Label": "Alexman",
+                        "Link": "https://twitter.com/Alexman1979/"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot2.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot3.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot4.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso85.misaka",
+                    "Description": "1st release"
+                }
+            ],
+            "PackageID": "com.hackzy.meloso85"
         },
         {
             "Name": "Dino Legal Notice",
