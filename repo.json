@@ -298,9 +298,9 @@
         },
         {
             "Name": "Material Pass",
-            "Description": "In with the new and out with the old",
+            "Description": "Fresh and Minimalistic",
             "Category": "Lock Screen",
-            "Caption": "Changes your passcode entering screen to a one that looks a little more like android",
+            "Caption": "Changes your passcode entry screen to a one that resembles Android by a little",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
