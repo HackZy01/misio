@@ -359,6 +359,37 @@
                 }
             ],
             "PackageID": "com.hackzy.negativedock"
-        }
+        },
+        {
+            "Name": "Clean Prefs",
+            "Description": "The Ultimate Settings Makeover!",
+            "Category": "Settings",
+            "Caption": "Declutter and organize your settings menu with Clean Prefs! Say goodbye to chaos! Experience the joy of simplicity and efficient access. Let Clean Prefs revolutionize your device!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://twitter.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/ss1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/ss2.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
+                    "Description": "Streamlined settings, enhanced efficiency."
+                }
+            ],
+            "PackageID": "com.hackzy.cleanprefs"
+
     ]
 }
