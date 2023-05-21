@@ -11,7 +11,7 @@
     "RepositoryContents": [
         {
             "Name": "Checkra1n Lock",
-            "Description": "a breath of fresh air",
+            "Description": "Give your lock screen a jailbreak touch",
             "Category": "Lock",
             "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol/n/Based on a jailbreak tweak called LatchKey",
             "MinIOSVersion": "15.0",
