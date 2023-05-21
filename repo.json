@@ -7,11 +7,11 @@
     "Default":{
         "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
         "ViewCount": true
-    },
+    },    
     "RepositoryContents": [
         {
             "Name": "Checkra1n Lock",
-            "Description": "a breath of fresh air",
+            "Description": "Give your lock screen a jailbreak touch",
             "Category": "Lock",
             "Caption": "Replaces the Lock Screen padlock icon with the Checkra1n symbol/n/Based on a jailbreak tweak called LatchKey",
             "MinIOSVersion": "15.0",
@@ -74,7 +74,7 @@
             "PackageID": "com.hackzy.subhack"
         },
         {
-            "Name": "JoyPixels",
+            "Name": "ㅤJoyPixels",
             "Description": "An amazing Emoji Font 😎",
             "Category": "Fonts",
             "Caption": "JoyPixels Emoji Font for iOS devices, we love u PoomSmart",
@@ -90,6 +90,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/jicon.png",
+                        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Header.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Screenshot.png"
             ],
@@ -103,7 +104,7 @@
             "PackageID": "com.hackzy.joypixels"
         },
         {
-            "Name": "Fluent Emojis (Flat)",
+            "Name": "ㅤFluent Emojis (Flat)",
             "Description": "The default Windows 11 Emojis",
             "Category": "Fonts",
             "Caption": "Flat Fluent Emojis for iOS devices",
@@ -119,7 +120,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/icon.png",
-            "HeaderImage": "hackzy01/misio/main/assets/com.hackzy.fluentflat/Header.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Header.jpeg",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Screenshot.png"
             ],
@@ -148,7 +149,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/icon_color.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot1.png",
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot2.png",
@@ -220,7 +221,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon_new.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
@@ -279,7 +280,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/icon_color.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot1.png",
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot2.png",
@@ -359,6 +360,37 @@
                 }
             ],
             "PackageID": "com.hackzy.negativedock"
+        },
+        {
+            "Name": "Clean Prefs",
+            "Description": "The Ultimate Settings Makeover!",
+            "Category": "Settings",
+            "Caption": "Say goodbye to chaos! Experience the joy of simplicity and efficient access!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://twitter.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/ss1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/ss2.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "0.9",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
+                    "Description": "Streamlined settings, enhanced efficiency."
+                }
+            ],
+            "PackageID": "com.hackzy.cleanprefs"
         }
     ]
 }
