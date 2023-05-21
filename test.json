@@ -364,7 +364,7 @@
             "Name": "Clean Prefs",
             "Description": "The Ultimate Settings Makeover!",
             "Category": "Settings",
-            "Caption": "Declutter and organize your settings menu with Clean Prefs! Say goodbye to chaos! Experience the joy of simplicity and efficient access. Let Clean Prefs revolutionize your device!",
+            "Caption": "Say goodbye to chaos! Experience the joy of simplicity and efficient access!",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
