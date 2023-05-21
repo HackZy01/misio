@@ -6,7 +6,7 @@
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
     "Default":{
         "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
-        "ViewCount": true
+        "ViewCount": false
     },    
     "RepositoryContents": [
         {
