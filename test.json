@@ -384,12 +384,12 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "0.9",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
                     "Description": "Streamlined settings, enhanced efficiency."
                 }
             ],
             "PackageID": "com.hackzy.cleanprefs"
-
+        }
     ]
 }
