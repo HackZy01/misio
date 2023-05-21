@@ -327,6 +327,37 @@
                 }
             ],
             "PackageID": "com.hackzy.materialpass"
+        },
+        {
+            "Name": "Negative Dock",
+            "Description": "a unique and beautiful dock",
+            "Category": "Dock",
+            "Caption": "Changes the appearence of your dock" 
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://twitter.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.negativedock/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.negativedock/ss1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.negativedock/ss2.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.negativedock.misaka",
+                    "Description": "1st release"
+                }
+            ],
+            "PackageID": "com.hackzy.negativedock"
         }
     ]
 }
