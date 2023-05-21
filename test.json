@@ -1,11 +1,11 @@
 {
-    "RepositoryName": "Misa",
-    "RepositoryDescription": "✨It just works✨",
+    "RepositoryName": "Misa - Testing",
+    "RepositoryDescription": "✨It just doesnt work✨",
     "RepositoryAuthor": "HackZy",
-    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repo_old.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
     "Default":{
-        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
+        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/aheader.jpeg",
         "ViewCount": true
     },    
     "RepositoryContents": [
@@ -55,7 +55,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon_old.png",
             "Screenshot": [
 
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov",
@@ -81,7 +81,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZy, PoomSmart",
+                "Label": "HackZy & PoomSmart",
                 "Links": [
                     {
                         "Label": "GitHub",
@@ -110,7 +110,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZy, PoomSmart",
+                "Label": "HackZy & PoomSmart",
                 "Links": [
                     {
                         "Label": "HackZy",
@@ -119,6 +119,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/icon.png",
+            "HeaderImage": "hackzy01/misio/main/assets/com.hackzy.fluentflat/Header.jpeg",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Screenshot.png"
             ],
@@ -132,14 +133,14 @@
             "PackageID": "com.hackzy.fluentflat"
         },
         {
-            "Name": "Meloso (100%) (UI)",
+            "Name": "Meloso (100%)",
             "Description": "An amazing system font",
             "Category": "Fonts",
             "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZy, Alexman",
+                "Label": "HackZy & Alexman",
                 "Links": [
                     {
                         "Label": "Alexman",
@@ -149,15 +150,22 @@
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/icon.png",
             "Screenshot": [
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot1.jpg",
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot2.jpg",
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot3.jpg"
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot2.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot3.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso/Screenshot4.png"
+
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso.misaka",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/archived/com.hackzy.meloso/1.0.misaka",
                     "Description": "It works"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso.misaka",
+                    "Description": "20.3MB -> 1MB, no font too big errors"
                 }
             ],
             "PackageID": "com.hackzy.meloso"
@@ -254,6 +262,71 @@
                 }
             ],
             "PackageID": "com.hackzy.scharge"
+        },
+        {
+            "Name": "Meloso (85%)",
+            "Description": "An amazing system font",
+            "Category": "Fonts",
+            "Caption": "Meloso is a font which has a playful and organic feel that has its own hand-drawn charm.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZ & Alexman",
+                "Links": [
+                    {
+                        "Label": "Alexman",
+                        "Link": "https://twitter.com/Alexman1979/"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot2.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot3.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.meloso85/Screenshot4.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.meloso85.misaka",
+                    "Description": "1st release"
+                }
+            ],
+            "PackageID": "com.hackzy.meloso85"
+        },
+        {
+            "Name": "Material Pass",
+            "Description": "Fresh and Minimalistic",
+            "Category": "Lock Screen",
+            "Caption": "Changes your passcode entry screen to a one that resembles Android by a little",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZ",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://twitter.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.materialpass/icon.png",
+            "Screenshot": [
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.materialpass/vid1.mov",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.materialpass/ss1.png",
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.materialpass/ss2.png"
+
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.materialpass.misaka",
+                    "Description": "1st release"
+                }
+            ],
+            "PackageID": "com.hackzy.materialpass"
         }
     ]
 }
