@@ -332,7 +332,7 @@
             "Name": "Negative Dock",
             "Description": "a unique and beautiful dock",
             "Category": "Dock",
-            "Caption": "Changes the appearence of your dock" 
+            "Caption": "Changes the appearence of your dock",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
