@@ -391,6 +391,34 @@
                 }
             ],
             "PackageID": "com.hackzy.cleanprefs"
+        },
+        {
+            "Name": "Windows Phone",
+            "Description": "Nostalgia at it's finest",
+            "Category": "Sounds",
+            "Caption": "I wish Windows Phones still existed",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "HackZy",
+                "Links": [
+                    {
+                        "Label": "HackZy",
+                        "Link": "https://twitter.com/hackzy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.windowsphone/icon.png",
+            "Screenshot": [
+            ],
+            "Releases": [
+                {
+                    "Version": "0.7",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.windowsphone.misaka",
+                    "Description": "Nostalgia ✨"
+                }
+            ],
+            "PackageID": "com.hackzy.windowsphone"
         }
     ]
 }
