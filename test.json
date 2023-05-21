@@ -235,10 +235,10 @@
             "PackageID": "com.hackzy.onecc"
         },
         {
-            "Name": "scharge",
-            "Description": "Samsung Charging Sound",
+            "Name": "Galactic Charge",
+            "Description": "Embrace the Unknown",
             "Category": "sound",
-            "Caption": "Exactly what you think it does",
+            "Caption": "Unleash the enigmatic power of the galaxy",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -256,7 +256,7 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "1.0.1",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.scharge.misaka",
                     "Description": "Initial release"
                 }
