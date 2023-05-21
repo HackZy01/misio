@@ -1,6 +1,6 @@
 {
     "RepositoryName": "Misa - Testing",
-    "RepositoryDescription": "It just doesnt work凉凉凉",
+    "RepositoryDescription": "It may work or it may not 路",
     "RepositoryAuthor": "HackZy",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/misa_testing.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio/test.json",
@@ -221,7 +221,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/icon_new.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot1.png",
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.onecc/Screenshot2.png"
