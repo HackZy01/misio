@@ -119,7 +119,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/icon.png",
-            "HeaderImage": "hackzy01/misio/main/assets/com.hackzy.fluentflat/fluentheader.png",
+            "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/fluentheader.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Screenshot.png"
             ],
