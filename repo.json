@@ -1,6 +1,6 @@
 {
     "RepositoryName": "Misa",
-    "RepositoryDescription": "✨It just works✨",
+    "RepositoryDescription": "It just works ",
     "RepositoryAuthor": "HackZy",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repo.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
@@ -56,8 +56,8 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon_old.png",
+            "HeaderImage": "https://play-lh.googleusercontent.com/_Gd_HFEjT1V_Yz4jhW9360DDl_OX174r9iO_JwGVVPNdrAeTNE3kY6YyaBoervZfQLA=w5120-h2880",
             "Screenshot": [
-
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov",
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot.png",
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Screenshot1.png",
