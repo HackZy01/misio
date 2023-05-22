@@ -56,6 +56,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/icon_old.png",
+            "HeaderImage": "https://play-lh.googleusercontent.com/_Gd_HFEjT1V_Yz4jhW9360DDl_OX174r9iO_JwGVVPNdrAeTNE3kY6YyaBoervZfQLA=w5120-h2880",
             "Screenshot": [
 
                 "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.subhack/Preview.mov",
@@ -90,7 +91,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/jicon.png",
-                        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Header.png",
+            "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Header.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Screenshot.png"
             ],
