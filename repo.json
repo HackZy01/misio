@@ -253,7 +253,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.scharge/icon.png",
             "Screenshot": [
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.scharge/vid1.mov"            
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.scharge/vid1.mov?loop=1&autoplay=1"            
             ],
             "Releases": [
                 {
