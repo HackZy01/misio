@@ -400,7 +400,7 @@
             "Name": "Windows Phone",
             "Description": "Nostalgia at it's finest",
             "Category": "Sounds",
-            "Caption": "God I sometimes wish Windows Mobile still existed\n\Includes a mix of sounds from Windows Phone 8.1 and Windows 10 Mobie\n\Changes:\n\• Keyboard Sounds\n\• Lock Sound\n\• Apple Pay Sounds\n\• Charging and Low Power Sounds",
+            "Caption": "God I sometimes wish Windows Mobile still existed\n\Includes a mix of sounds from Windows Phone 8.1 and Windows 10 Mobie\n\Changes the following sounds:\n\• Keyboard Sounds\n\• Lock Sound\n\• Apple Pay Sounds\n\• Charging and Low Power Sounds",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -422,9 +422,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "0.7",
+                    "Version": "0.8",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.windowsphone.misaka",
-                    "Description": "Nostalgia ✨"
+                    "Description": "✨Nostalgia✨"
                 }
             ],
             "PackageID": "com.hackzy.windowsphone"
