@@ -253,16 +253,16 @@
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.scharge/icon.png",
             "Screenshot": [
-            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.scharge/Preview.mp4"            
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.scharge/vid1.mov"            
             ],
             "Releases": [
                 {
-                    "Version": "1.0.1",
+                    "Version": "1.0.2",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.scharge.misaka",
                     "Description": "Initial release"
                 }
             ],
-            "PackageID": "com.hackzy.scharge"
+            "PackageID": "com.hackzy.galacticcharge"
         },
         {
             "Name": "Meloso (85%)",
