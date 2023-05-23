@@ -400,14 +400,18 @@
             "Name": "Windows Phone",
             "Description": "Nostalgia at it's finest",
             "Category": "Sounds",
-            "Caption": "I wish Windows Phones still existed",
+            "Caption": "God I sometimes wish Windows Mobile still existed\n\Includes a mix of sounds from Windows Phone 8.1 and Windows 10 Mobie\n\Changes:\n\• Keyboard Sounds\n\• Lock Sound\n\• Apple Pay Sounds\n\• Charging and Low Power Sounds",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "HackZy",
                 "Links": [
                     {
-                        "Label": "HackZy",
+                        "Label": "GitHub",
+                        "Link": "https://github.com/hackzy01"
+                    },
+                    {
+                        "Label": "Twitter",
                         "Link": "https://twitter.com/hackzy01"
                     }
                 ]
