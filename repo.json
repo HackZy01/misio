@@ -92,17 +92,21 @@
                 "Label": "HackZy & PoomSmart",
                 "Links": [
                     {
-                        "Label": "GitHub",
+                        "Label": "PoomSmart - GitHub",
+                        "Link": "https://github.com/poomsmart/"
+                    },
+                    {
+                        "Label": "HackZy - GitHub",
                         "Link": "https://GitHub.com/hackzy01"
                     },
                     {
-                        "Label": "Twitter",
+                        "Label": "HackZy - Twitter",
                         "Link": "https://twitter.com/hackzy01"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/jicon.png",
-                        "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Header.png",
+            "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Header.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Screenshot.png"
             ],
@@ -125,6 +129,10 @@
             "Author": {
                 "Label": "HackZy & PoomSmart",
                 "Links": [
+                    {
+                        "Label": "PoomSmart - GitHub",
+                        "Link": "https://github.com/poomsmart/"
+                    },
                     {
                         "Label": "GitHub",
                         "Link": "https://GitHub.com/hackzy01"
@@ -308,7 +316,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZ & Alexman",
+                "Label": "HackZy & Alexman",
                 "Links": [
                     {
                         "Label": "Alexman - Twitter",
@@ -349,7 +357,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "HackZ",
+                "Label": "HackZy",
                 "Links": [
                     {
                         "Label": "GitHub",
@@ -366,7 +374,6 @@
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.materialpass/gif.gif",
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.materialpass/ss1.png",
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.materialpass/ss2.png"
-
             ],
             "Releases": [
                 {
