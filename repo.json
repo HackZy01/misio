@@ -483,9 +483,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "1.0.1",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.oneuisettings.misaka",
-                    "Description": "a promising start"
+                    "Description": "NVT2 1.3 fix"
                 }
             ],
             "PackageID": "com.hackzy.oneuisettings"
