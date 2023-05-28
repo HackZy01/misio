@@ -457,7 +457,7 @@
         },
         {
             "Name": "OneUI Settings",
-            "Description": "Samsung sneaks into Apple’s Garden",
+            "Description": "Samsung sneaking into Apple’s Garden",
             "Category": "Theme",
             "Caption": "When a Samsung steps into the Settings of an iPhone",
             "MinIOSVersion": "15.0",
@@ -485,7 +485,7 @@
                 {
                     "Version": "1.0",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.oneuisettings.misaka",
-                    "Description": "1st release"
+                    "Description": "a promising start"
                 }
             ],
             "PackageID": "com.hackzy.oneuisettings"
