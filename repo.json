@@ -448,9 +448,9 @@
             ],
             "Releases": [
                 {
-                    "Version": "0.9",
+                    "Version": "1.0",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
-                    "Description": "Streamlined settings, enhanced efficiency."
+                    "Description": "Icon pack support"
                 }
             ],
             "PackageID": "com.hackzy.cleanprefs"
@@ -460,7 +460,7 @@
             "Description": "Samsung sneaking into Apple’s Garden",
             "Category": "Theme",
             "Caption": "When a Samsung steps into the Settings of an iPhone",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "15.0",ks
             "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "HackZy",
