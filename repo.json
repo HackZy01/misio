@@ -460,7 +460,7 @@
             "Description": "Samsung sneaking into Apple’s Garden",
             "Category": "Theme",
             "Caption": "When a Samsung steps into the Settings of an iPhone",
-            "MinIOSVersion": "15.0",ks
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "HackZy",
