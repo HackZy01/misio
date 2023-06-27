@@ -394,7 +394,7 @@
          "Name":"Windows Phone",
          "Description":"Nostalgia at it's finest",
          "Category":"Sounds",
-         "Caption":"Includes a mix of sounds from Windows Phone 8.1 and Windows 10 Mobie\n\Changes the following sounds:\n\• Keyboard Sounds\n\• Lock Sound\n\• Apple Pay Sounds\n\• Charging and Low Power Sounds",
+         "Caption":"Includes a mix of sounds from Windows Phone 8.1 and Windows 10 Mobie",
          "MinIOSVersion":"15.0",
          "MaxIOSVersion":"16.1.2",
          "Author":{
@@ -411,9 +411,9 @@
             ]
          },
          "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.windowsphone/icon.png",
-         "HeaderImage":"https://blenderartists.org/uploads/default/original/4X/0/6/2/062fa33bea3da920afb60dc083278649f38278e0.jpg",
+         "HeaderImage":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.windowsphone/Header.png",
          "Screenshot":[
-            
+            "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.windowsphone/ss1.png"
          ],
          "Releases":[
             {

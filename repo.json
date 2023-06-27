@@ -2,7 +2,7 @@
     "RepositoryName": "Aurora",
     "RepositoryDescription": "Sit back and relax! ⭐️🔭⚡️",
     "RepositoryAuthor": "HackZy",
-    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/misa_testing.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repository.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
     "Default":{
         "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Header.png",
@@ -82,10 +82,10 @@
             "PackageID": "com.hackzy.subhack"
         },
         {
-            "Name": "ㅤJoyPixels",
+            "Name": "JoyPixels",
             "Description": "An amazing Emoji Font 😎",
             "Category": "Fonts",
-            "Caption": "JoyPixels Emoji Font for iOS devices, we love u PoomSmart",
+            "Caption": "JoyPixels Emoji Font for iOS",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -105,7 +105,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/jicon.png",
+            "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/icon.png",
             "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Header.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.joypixels/Screenshot.png"
@@ -120,10 +120,10 @@
             "PackageID": "com.hackzy.joypixels"
         },
         {
-            "Name": "ㅤFluent Emojis (Flat)",
+            "Name": "Fluent Emoji (Flat)",
             "Description": "The default Windows 11 Emojis",
             "Category": "Fonts",
-            "Caption": "Flat Fluent Emojis for iOS devices",
+            "Caption": "Fluent Emoji Font for iOS",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -144,7 +144,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/icon.png",
-            "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Header.jpeg",
+            "HeaderImage": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Header.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.fluentflat/Screenshot.png"
             ],
@@ -279,7 +279,7 @@
             "Name": "Galactic Charge",
             "Description": "Embrace the Unknown",
             "Category": "sound",
-            "Caption": "Unleash the enigmatic power of the galaxy",
+            "Caption": "Unleash the unknown power of the galaxy",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
