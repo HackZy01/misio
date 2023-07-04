@@ -424,8 +424,8 @@
             "Name": "Clean Prefs",
             "Description": "The Ultimate Settings Makeover!",
             "Category": "Settings",
-            "Caption": "Say goodbye to chaos! Experience the joy of simplicity and efficient access! Thanks for the name, Lung Inspector",
-            "MinIOSVersion": "15.0",
+            "Caption": "Experience the joy of simplicity and efficiency! Thanks for the name, Lung Inspector",
+            "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "HackZy",
@@ -448,7 +448,7 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "1.1",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
                     "Description": "Icon pack support"
                 }
