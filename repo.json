@@ -489,6 +489,40 @@
                 }
             ],
             "PackageID": "com.hackzy.oneuisettings"
-        }
+        },
+        {
+            "Name":"Windows Phone",
+            "Description":"Nostalgia at it's finest",
+            "Category":"Sounds",
+            "Caption":"Step into a world of nostalgia, evoking memories of simpler times",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author":{
+               "Label":"HackZy",
+               "Links":[
+                  {
+                     "Label":"GitHub",
+                     "Link":"https://github.com/hackzy01"
+                  },
+                  {
+                     "Label":"Twitter",
+                     "Link":"https://twitter.com/hackzy01"
+                  }
+               ]
+            },
+            "Icon":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.windowsphone/icon.png",
+            "HeaderImage":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.windowsphone/Header.png",
+            "Screenshot":[
+               "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.windowsphone/ss1.png"
+            ],
+            "Releases":[
+               {
+                  "Version":"1.0",
+                  "Package":"https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.windowsphone.misaka",
+                  "Description":"✨Nostalgia✨"
+               }
+            ],
+            "PackageID":"com.hackzy.windowsphone"
+         }
     ]
 }
