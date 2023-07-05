@@ -1,6 +1,6 @@
 {
     "RepositoryName": "Aurora",
-    "RepositoryDescription": "Sit back and relax! ⭐️🔭⚡️",
+    "RepositoryDescription": "Sometimes you just have to enjoy life as is",
     "RepositoryAuthor": "HackZy",
     "RepositoryIcon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/Repository.png",
     "RepositoryWebsite": "https://github.com/hackzy01/misio",
@@ -457,7 +457,7 @@
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefslite.misaka",
                     "Description": "iOS 15 version"
                 {
-            ],
+                    ],
             "PackageID": "com.hackzy.cleanprefs"
         },
         {
