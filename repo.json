@@ -425,7 +425,7 @@
             "Description": "The Ultimate Settings Makeover!",
             "Category": "Settings",
             "Caption": "Experience the joy of simplicity and efficiency! Thanks for the name, Lung Inspector",
-            "MinIOSVersion": "16.0",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "HackZy",
