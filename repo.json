@@ -421,7 +421,7 @@
             "PackageID": "com.hackzy.negativedock"
         },
         {
-            "Name": "Clean Prefs",
+            "Name": "CleanPrefs",
             "Description": "The Ultimate Settings Makeover!",
             "Category": "Settings",
             "Caption": "Experience the joy of simplicity and efficiency! Thanks for the name, Lung Inspector",
@@ -441,6 +441,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/icon.png",
+            "HeaderImage":"https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/Header.png",
             "Screenshot": [
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/ss1.png",
             "https://raw.githubusercontent.com/hackzy01/misio/main/assets/com.hackzy.cleanprefs/ss2.png"
@@ -448,10 +449,14 @@
             ],
             "Releases": [
                 {
-                    "Version": "1.1",
+                    "Version": "2.0",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
-                    "Description": "Icon pack support"
-                }
+                    "Description": "CleanPrefs 2.0"
+                },
+                    "Version": "2.0 lite",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefslite.misaka",
+                    "Description": "iOS 15 version"
+                {
             ],
             "PackageID": "com.hackzy.cleanprefs"
         },
