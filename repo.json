@@ -449,14 +449,14 @@
             ],
             "Releases": [
                 {
-                    "Version": "2.0",
-                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
-                    "Description": "CleanPrefs 2.0"
-                },
-                {
                     "Version": "2.0 lite",
                     "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefslite.misaka",
                     "Description": "iOS 15 version"
+                },
+                {
+                    "Version": "2.0",
+                    "Package": "https://raw.githubusercontent.com/hackzy01/misio/main/tweaks/com.hackzy.cleanprefs.misaka",
+                    "Description": "CleanPrefs 2.0"
                 }
             ],
             "PackageID": "com.hackzy.cleanprefs"
